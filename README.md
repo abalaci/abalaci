@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, there! 👋🏼
 
-<!--
-**abalaci/abalaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrei, a software engineer and somewhat of a geek.
 
-Here are some ideas to get you started:
+I absolutely love C# and all things .NET - well, to be fair, maybe not all of them!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'd really like to start learning some Rust, TypeScript, and Julia one day.
+Besides this, I'm also interested in quantum computing, maths, cybersecurity & privacy,
+video games (Mass Effect is good, Mass Effect is great!), and tennis - long live King Roger, first of his name!
+
+I'm also keen on contributing more to open source projects.
+As a side note, my PC runs on [Kubuntu](https://kubuntu.org) - if you're looking for an amazing Linux distro,
+you should definitely give it a try!
+
+### What else?
+
+Have a look at [my gists](https://gist.github.com/abalaci), maybe you'll find something useful there.
